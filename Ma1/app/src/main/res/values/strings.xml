@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Ma1</string>
+    <string name="subject_relavans">Subject Relavans</string>
+    <string name="Teacher_overall_performance">Teacher overall performance</string>
+    <string name="Teacher_preparation">Teacher Preparation</string>
+    <string name="Amount_of_feedback">Amount of feedback</string>
+    <string name="How_good_their_examples_are">How good their examples are</string>
+    <string name="Job_opportunities">Job opportunities</string>
+
+    <string name="Danish_Button">danish</string>
+    <string name="Spanish_Button">spanish</string>
+    <string name="English_Button">english</string>
+    <string name="Brazil_Button">brazil</string>
+
+    <string name="A">A</string>
+    <string name="B">B</string>
+    <string name="C">C</string>
+    <string name="D">D</string>
+    <string name="E">E</string>
+    <string name="NEW">NEW</string>
+
+    <string name="Message">MESSAGE</string>
+
+    <string name="Choice">Choice</string>
+    <string name="TotalValue">totalValue</string>
+
+    <string name="Next_Question">Next Question</string>
+    <string name="Send_To_Teacher">Send To Teacher</string>
+
+    <string name="Rate">Rate</string>
+    <string name="below_please">&#160;below,&#160;please</string>
+
+    <string name="SPACE">&#160;</string>
+    <string name="DANISH">danish</string>
+    <string name="ENGLISH">english</string>
+    <string name="SPANISH">spanish</string>
+    <string name="BRAZIL">brazil</string>
+    <string name="RESULTS_FOR">Result for</string>
+    <string name="TEACHER">teacher</string>
+    <string name="TESTSCORE">Your score in the test was:&#160;</string>
+    <string name="MAILTO">mailto:</string>
+    <string name="SEND_MAIL">send mail</string>
+    <string name="There_are_no_email_clients_installed">There are no email clients installed.</string>
+    
+    <string name="MyPREFERENCES">MyPrefs</string>
+
+</resources>
